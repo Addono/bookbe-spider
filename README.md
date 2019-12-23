@@ -2,7 +2,7 @@
 
 ## About
 
-Collects book titles from [book.be](https://book.be).
+Collects book titles from [book.be](https://book.be). See [this](https://gist.github.com/Addono/de7b0633d7faa1da3aeaf1f43985b163) example of a scrape getting the titles of all books released in 2019.
 
 ## Installation
 
